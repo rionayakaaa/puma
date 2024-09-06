@@ -1,0 +1,29 @@
+nav {
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+
+nav ul {
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    margin-left: -45px;
+    color: white;
+}
+
+.logo {
+    width: 45px;
+    margin-left: 40px;
+
+}
+
+nav {
+    align-items: center;
+    background-color: black;
+    padding: 10px;
+}
+
+body {
+    margin: 0;
+}
